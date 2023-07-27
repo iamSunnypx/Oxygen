@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1547013285 source:d:\practice\virtual assitant\main.cpp
+	<iostream>
+	<stdlib.h>
+	<dos.h>
+	<string.h>
+
+1547244666 source:h:\virtual assitant\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+
+1547127358 source:h:\virtual assitant\exapmle.cpp
+	<iostream>
+	<string.h>
+
