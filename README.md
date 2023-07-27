@@ -9,3 +9,6 @@ It consist of following features :
 5. Shutdown/restart
 6. Show my IP
    
+In order to run this program you will need to install codeblocks with necessary dependencies and make sure MinGW is installed too
+
+Scope : n - You can add as many features and functions you want further in to this code . 
